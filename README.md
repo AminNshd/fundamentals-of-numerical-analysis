@@ -67,4 +67,4 @@ NumericalAnalysis
 * **Approach:** The project emphasizes the **Runge's Phenomenon** observation—demonstrating how higher-order polynomials might oscillate and why piecewise cubic splines often provide a superior fit for numerical data.
 
 
-**Date:** January 2024
+**Date:** December 2024
