@@ -47,7 +47,7 @@ This project is a comprehensive MATLAB application that takes a symbolic functio
 1. **Open MATLAB**.
 2. **Run the script**:
 ```matlab
-AmirNoshadiNew
+NumericalAnalysis
 
 ```
 
